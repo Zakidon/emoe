@@ -1,6 +1,6 @@
-﻿---
-title: "Hello from Zak"
-date: 2025-09-16
+---
+title: Hello from Zak
+date: 2025-09-16T14:40:00.000+03:00
 ---
 
 Тестовый пост — всё работает.
